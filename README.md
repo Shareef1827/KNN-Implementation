@@ -23,8 +23,8 @@ This project demonstrates a from-scratch implementation of the K-Nearest Neighbo
 - Dataset: Diamonds dataset
 - Target Variable: price
 - Features:
-  Numerical: carat, depth, table, x, y, z
-  Categorical: cut, color, clarity
+Numerical: carat, depth, table, x, y, z
+Categorical: cut, color, clarity
 
 ## Project Workflow
 1. Load and explore the dataset
