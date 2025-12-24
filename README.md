@@ -20,11 +20,11 @@ This project demonstrates a from-scratch implementation of the K-Nearest Neighbo
 - <a href="https://github.com/Shareef1827/KNN-Implementation/blob/main/KNN%20Implementation%20from%20Scratch.ipynb"> Jupyter Code File </a>
 
 ## Dataset Overview
-=> Dataset: Diamonds dataset
-=> Target Variable: price
-=> Features:
-      Numerical: carat, depth, table, x, y, z
-      Categorical: cut, color, clarity
+- Dataset: Diamonds dataset
+- Target Variable: price
+- Features:
+  Numerical: carat, depth, table, x, y, z
+  Categorical: cut, color, clarity
 
 ## Project Workflow
 1. Load and explore the dataset
